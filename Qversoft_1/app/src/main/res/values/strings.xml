@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Saral GST</string>
+
+    <string name="main_screen_title">Qversoft</string>
+    <string name="punch_line">Execution Matters !</string>
+    <string name="Inventory">Inventory</string>
+    <string name="Invoices">Invoices</string>
+    <string name="Create_Invoice">Create Invoice</string>
+    <string name="Invoice_No">Invoice No. :</string>
+    <string name="Invoice_Amount">Amount : </string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">Search Me</string>
+    <string name="dialog_action_dismiss">@android:string/ok</string>
+    <string name="dialog_about">About Dialog Boxes</string>
+
+</resources>
